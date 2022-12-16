@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Goldcoin
+Comment=Core Wallet for Goldcoin Cryptocurrency
+Exec=goldcoin-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin128.png
+MimeType=x-scheme-handler/goldcoin;
+Categories=Office;Finance;
+StartupWMClass=Goldcoin-qt
